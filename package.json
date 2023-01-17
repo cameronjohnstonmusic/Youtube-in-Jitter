@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "ytdl": "^1.4.1",
+    "ytdl-core": "^4.11.2"
+  },
+  "name": "watch-youtube",
+  "version": "1.0.0",
+  "main": "watch-youtube.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "description": ""
+}
